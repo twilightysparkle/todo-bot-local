@@ -28,7 +28,7 @@ process updates for a given token.
 ## Setup
 
 ```powershell
-cd C:\Users\Pipp\todo-bot-local
+cd todo-bot-local
 copy .env.example .env
 # Edit .env and set BOT_TOKEN=... from BotFather
 ```

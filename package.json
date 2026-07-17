@@ -1,0 +1,13 @@
+{
+  "name": "todo-bot-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Telegram to-do bot (long polling via getUpdates)",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

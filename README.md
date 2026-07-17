@@ -1,6 +1,6 @@
 # Local Telegram to-do bot
 
-Same behaviour as the tgcloud `my-bot`, but runs on your machine with the
+Runs on your machine with the
 [Telegram Bot API](https://core.telegram.org/bots/api) and long polling.
 
 | You send | Bot does |
